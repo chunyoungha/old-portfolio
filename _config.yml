@@ -1,5 +1,5 @@
 title: Youngha Chun
 #logo: /assets/img/...
 #description: text below image
-show_downloads: true
+show_downloads: False
 theme: jekyll-theme-minimal
